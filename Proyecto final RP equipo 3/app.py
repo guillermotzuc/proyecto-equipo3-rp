@@ -7,7 +7,7 @@ import os
 
 app = Flask(__name__)
 
-# Configuración de la API de Bing (debes reemplazar con tu clave)
+# Configuración de la API de Bing
 BING_API_KEY = '5b8b39d079e54f54bf4f48c8ca6cdf9c'
 BING_ENDPOINT = 'https://api.bing.microsoft.com/v7.0/images/search'
 
